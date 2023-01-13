@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=https://classroom.github.com/a/icG2oERU
+EXAMCODE= mischevous spider skateboard peach 9f0a12
 
 echo ${EXAMCODE}
