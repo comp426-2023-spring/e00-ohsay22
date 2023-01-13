@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=9f0a12
+EXAMCODE=%0A[0-9]{9}%0A
 
 echo ${EXAMCODE}
